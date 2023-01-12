@@ -23,36 +23,38 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(20,33,61,1) 0%, rgba(2
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h2 style="color: #14213d">Get Started!</h2>
+    <h2 style="color: #14213d">Explore xDSL</h2>
     <br>
     <br>
     <div class="row row-cols-1 row-cols-md-3">
       <a href="https://github.com/xdslproject/xdsl/tree/main/docs">
-        <div class="col mb-4">
+        <div class="col-12 col-md-9">
           <div class="card" style="background-color: rgba(20,33,61,1)">
             <img src="assets/img/documentation.png" class="card-img-top" alt="..." style="padding: 1em">
             <div class="card-body">
-              <h5 class="card-title" style="color: white">Documentation</h5>
+              <h5 class="card-title text-center" style="color: white">Docs</h5>
             </div>
           </div>
         </div>
+        <br>
       </a>
       <a href="https://xdsl.zulipchat.com/">
-        <div class="col mb-4">
+        <div class="col-12 col-md-9">
           <div class="card" style="background-color: rgba(20,33,61,1)">
             <img src="assets/img/zulip.png" class="card-img-top" alt="..." style="padding: 1em">
             <div class="card-body">
-              <h5 class="card-title" style="color: white">xDSL Chat on Zulip</h5>
+              <h5 class="card-title text-center" style="color: white">Zulip Chat</h5>
             </div>
           </div>
         </div>
+        <br>
       </a>
       <a href="https://github.com/xdslproject/xdsl">
-        <div class="col mb-4">
+        <div class="col-12 col-md-9">
           <div class="card" style="background-color: rgba(20,33,61,1)">
             <img src="assets/img/github.png" class="card-img-top" alt="..." style="padding: 1em">
             <div class="card-body">
-              <h5 class="card-title" style="color: white">Code on GitHub</h5>
+              <h5 class="card-title text-center" style="color: white">GitHub</h5>
             </div>
           </div>
         </div>
