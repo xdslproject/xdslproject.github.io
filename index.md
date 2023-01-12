@@ -14,11 +14,8 @@ background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(20,33,61,1) 0%, rgba(2
 </div>
 
 <div class="container" style="">
-  <h2 style="color: #14213d">Sneak Preview</h2>
-  <br>
-  <br>
   <div style="height: 100em">
-  <iframe style="border: 0px; height=100vh" height="100%" width="100%" src="https://nbviewer.org/github/xdslproject/xdsl/blob/main/docs/irdl.ipynb"></iframe>
+  <iframe style="border: 0px" scrolling="no" onload="resizeIframe(this)" height="100%" width="100%" src="https://xdsl.dev/xdsl/retro/notebooks/?path=docs/tutorial.ipynb"></iframe>
   </div>
   <br>
   <br>
