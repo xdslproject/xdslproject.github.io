@@ -30,7 +30,7 @@ title: Team
   </div>
   <div class="col mb-4">
     <div class="card">
-      <img src="/assets/img/portraits/placeholder.jpg" class="card-img-top" alt="Theo Degioanni">
+      <img src="/assets/img/portraits/theo_degioanni.jpg" class="card-img-top" alt="Theo Degioanni">
       <div class="card-body">
         <h6 class="card-title">Theo Degioanni</h6>
       </div>
