@@ -23,6 +23,7 @@ navbar-links:
     - Application Developers: "appdev"
     - DSL Developers: "dsldev"    
   About Project:
+    - Challenge: "challenge"
     - Partners: "partners"
     - ExCALIBUR: "excalibur"
 
