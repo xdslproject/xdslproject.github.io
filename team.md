@@ -118,7 +118,7 @@ title: Team
   </div>
   <div class="col mb-4">
     <div class="card">
-      <img src="../assets/img/portraits/placeholder.jpg" class="card-img-top" alt="Nikos Mavrogeorgis">
+      <img src="../assets/img/portraits/nikos_mavrogeorgis.jpg" class="card-img-top" alt="Nikos Mavrogeorgis">
       <div class="card-body">
         <h6 class="card-title">Nikos Mavrogeorgis</h6>
       </div>
