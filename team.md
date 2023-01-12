@@ -14,7 +14,7 @@ title: Team
   </div>
   <div class="col mb-4">
     <div class="card">
-      <img src="/assets/img/portraits/placeholder.jpg" class="card-img-top" alt="George Bisbas">
+      <img src="/assets/img/portraits/george_bisbas.jpg" class="card-img-top" alt="George Bisbas">
       <div class="card-body">
         <h6 class="card-title">George Bisbas</h6>
       </div>
