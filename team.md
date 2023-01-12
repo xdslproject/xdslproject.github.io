@@ -126,6 +126,14 @@ title: Team
   </div>
   <div class="col mb-4">
     <div class="card">
+      <img src="/assets/img/portraits/lawrence_mitchell.jpg" class="card-img-top" alt="Lawrence Mitchell">
+      <div class="card-body">
+        <h6 class="card-title">Lawrence Mitchell</h6>
+      </div>
+    </div>
+  </div>
+  <div class="col mb-4">
+    <div class="card">
       <img src="/assets/img/portraits/george_mitenkov.jpg" class="card-img-top" alt="George Mitenkov">
       <div class="card-body">
         <h6 class="card-title">George Mitenkov</h6>
