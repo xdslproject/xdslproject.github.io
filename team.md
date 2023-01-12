@@ -150,7 +150,7 @@ title: Team
   </div>
   <div class="col mb-4">
     <div class="card">
-      <img src="/assets/img/portraits/placeholder.jpg" class="card-img-top" alt="Prathamesh Tagore">
+      <img src="/assets/img/portraits/prathamesh_tagore.jpg" class="card-img-top" alt="Prathamesh Tagore">
       <div class="card-body">
         <h6 class="card-title">Prathamesh Tagore</h6>
       </div>
