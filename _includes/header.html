@@ -92,5 +92,7 @@
 
 
 {% else %}
-<div class="intro-header"></div>
+  {% if page.hero != true %}
+    <div class="intro-header"></div>
+  {% endif %}
 {% endif %}
