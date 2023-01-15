@@ -4,7 +4,7 @@ full-width: true
 hero: true
 ---
 
-<div class="jumbotron jumbotron-fluid" style="background: rgb(0,0,0); background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(20,33,61,1) 0%, rgba(20,33,61,1) 40%, rgba(0,48,150,1) 100%, rgba(229,229,229,1) 100%)">
+<div class="jumbotron jumbotron-fluid" style="background: rgba(20,33,61,1)">
   <div class="container mt-5 pt-3">
     <h3 class="text-light pt-5 mt-5 mb-4">A Python-Native Compiler Toolkit</h3>
     <div class="row flex-row-reverse p-2">
