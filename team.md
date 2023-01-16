@@ -54,7 +54,7 @@ title: Team
   </div>
   <div class="col mb-4">
     <div class="card">
-      <img src="../assets/img/portraits/placeholder.jpg" class="card-img-top" alt="Gerard Gorman">
+      <img src="../assets/img/portraits/gerard_gorman.jpeg" class="card-img-top" alt="Gerard Gorman">
       <div class="card-body">
         <h6 class="card-title">Gerard Gorman</h6>
       </div>
@@ -70,7 +70,7 @@ title: Team
   </div>
   <div class="col mb-4">
     <div class="card">
-      <img src="../assets/img/portraits/placeholder.jpg" class="card-img-top" alt="Paul Kelly">
+      <img src="../assets/img/portraits/paul_kelly.jpg" class="card-img-top" alt="Paul Kelly">
       <div class="card-body">
         <h6 class="card-title">Paul Kelly</h6>
       </div>
@@ -86,9 +86,9 @@ title: Team
   </div>
   <div class="col mb-4">
     <div class="card">
-      <img src="../assets/img/portraits/placeholder.jpg" class="card-img-top" alt="Fabian Luporini">
+      <img src="../assets/img/portraits/fabio_luporini.jpeg" class="card-img-top" alt="Fabio Luporini">
       <div class="card-body">
-        <h6 class="card-title">Fabian Luporini</h6>
+        <h6 class="card-title">Fabio Luporini</h6>
       </div>
     </div>
   </div>
