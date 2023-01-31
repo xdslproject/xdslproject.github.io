@@ -38,7 +38,7 @@ title: Team
   </div>
   <div class="col mb-4">
     <div class="card">
-      <img src="../assets/img/portraits/placeholder.jpg" class="card-img-top" alt="Josse Van Delm">
+      <img src="../assets/img/portraits/josse_van_delm.jpg" class="card-img-top" alt="Josse Van Delm">
       <div class="card-body">
         <h6 class="card-title">Josse Van Delm</h6>
       </div>
@@ -182,9 +182,9 @@ title: Team
   </div>
   <div class="col mb-4">
     <div class="card">
-      <img src="../assets/img/portraits/placeholder.jpg" class="card-img-top" alt="Jacob Yo">
+      <img src="../assets/img/portraits/jacob_yu.jpg" class="card-img-top" alt="Jacob Yu">
       <div class="card-body">
-        <h6 class="card-title">Jacub Yo</h6>
+        <h6 class="card-title">Jacob Yu</h6>
       </div>
     </div>
   </div>
