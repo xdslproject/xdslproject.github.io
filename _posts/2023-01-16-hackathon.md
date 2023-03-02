@@ -8,7 +8,7 @@ tags: [hackathon, technical]
 
 Last week 2023 got off to a strong, but windy, start with an all week xDSL hackathon held in Edinburgh. With in-person participants from ETH Zurich and Imperial, and online attendees from as far away as Mumbai in India, it was a great opportunity to prioritise the list of tasks we wanted to get sorted and make that happen.
 
-<img src="assets/img/jan_hackathon.jpg" align=right width=200>
+<img src="/assets/img/jan_hackathon.jpg" align=right width=200>
 
 One of the exciting aspects about these hackathon (apart from all the tasty treats throughout the day!) is how, from day to day or even hour to hour, different groups form, work on something, and then break apart once the task has been completed for the cycle to restart all over again! An area of high priority during the session was the xDSL parsing functionality, which had been developed early on during the project and then been updated but without much overarching design. This was completely rewritten, and some enhancements to how people use IRDL were also developed which will find their way into the next release.
 
