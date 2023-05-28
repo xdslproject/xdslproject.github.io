@@ -38,7 +38,7 @@ avatar: "/assets/img/logo.png"
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-# title-img: "/assets/img/logo.png"
+title-img: "/assets/img/xdsl_long_logo.png"
 
 
 # --- Footer social media links --- #
