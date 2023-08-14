@@ -30,7 +30,7 @@ title: Team
   </div>
   <div class="col mb-4">
     <div class="card">
-      <img src="../assets/img/portraits/gabriel_rodriguez_canal" class="card-img-top" alt="Gabriel Rodríguez Canal">
+      <img src="../assets/img/portraits/gabriel_rodriguez_canal.jpg" class="card-img-top" alt="Gabriel Rodríguez Canal">
       <div class="card-body">
         <h6 class="card-title">Gabriel Rodríguez Canal</h6>
       </div>
