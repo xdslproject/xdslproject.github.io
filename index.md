@@ -20,7 +20,7 @@ hero: true
 <div class="container" style="">
  <div style="position:relative">
  <iframe style="border: 0px" height="3500em" scrolling="no" width="100%" src="https://nbviewer.org/github/xdslproject/xdsl/blob/main/docs/database_example.ipynb"></iframe>
- <a style="position:absolute; top:0; left:0; height:100%; width: 100%; z-index:5;" href="https://xdsl.dev/xdsl/retro/notebooks/?path=database_example.ipynb">
+ <a style="position:absolute; top:0; left:0; height:100%; width: 100%; z-index:5;" href="https://xdsl.dev/xdsl/notebooks/?path=database_example.ipynb">
  </a>
  </div>
 </div>
