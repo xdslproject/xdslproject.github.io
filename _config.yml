@@ -38,7 +38,7 @@ avatar: "/assets/img/logo.png"
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-# title-img: "/assets/img/logo.png"
+title-img: "/assets/img/xdsl_long_logo.png"
 
 
 # --- Footer social media links --- #
@@ -110,8 +110,8 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#14213D"
-navbar-text-col: "#E5E5E5"
+navbar-col: "#FFFFFF"
+navbar-text-col: "#000000"
 navbar-border-col: "#E5E5E5"
 page-col: "#FFFFFF"
 text-col: "#000000"
