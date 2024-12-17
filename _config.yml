@@ -24,6 +24,7 @@ navbar-links:
   News: "news"
   Team: "team"
   Community:
+    - HiPEAC Workshop: "events/2025-HiPEAC"
     - MLIR Winter School: "events/2025-winter-school"
     - ASPLOS Tutorial: "events/2025-ASPLOS"
     - EuroPar Workshop: "events/2022-europar"
