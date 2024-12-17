@@ -24,6 +24,7 @@ navbar-links:
   News: "news"
   Team: "team"
   Community:
+    - MLIR Winter School: "events/2025-winter-school"
     - EuroPar Workshop: "europar"
   Developer Zone:
     - Application Developers: "appdev"
