@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MLIR Winter School
-subtitle: 27-28 January 2025
+subtitle: 27-31 January 2025
 ---
 
 From January 28 to 31, as part of the DeepGreen project, we are participating in a Winter School on the MLIR compilation infrastructure in Paris (Hôtel Maison Montmartre). The program is available [here](https://sites.google.com/view/mlirwinterschoolparis2025/home).
