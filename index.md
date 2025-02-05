@@ -6,7 +6,7 @@ hero: true
 
 <div class="jumbotron jumbotron-fluid" style="background: rgba(20,33,61,1)">
   <div class="container mt-5 pt-3">
-    <h3 class="text-light pt-5 mt-5 mb-4">A Python-Native Compiler Toolkit</h3>
+    <h3 class="text-light pt-5 mt-5 mb-4">A Python-native Compiler Toolkit</h3>
     <div class="row flex-row-reverse p-2">
         <div class="col-xs-12 col-md-9">
         <p class="lead text-justify text-light">Design your own (domain-specific) compiler by mixing predefined IRs with your custom IR abstractions. Always optimize at the optimal abstraction level by lowering programs through multiple levels of IRs. Connect with the LLVM/MLIR ecosystem while benefiting from Python's productivity.
