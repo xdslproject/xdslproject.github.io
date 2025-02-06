@@ -23,6 +23,7 @@ navbar-links:
   Home: "index"
   News: "news"
   Team: "team"
+  Workshop: "workshop"
   Community:
     - HiPEAC Workshop: "events/2025-HiPEAC"
     - MLIR Winter School: "events/2025-winter-school"
