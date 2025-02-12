@@ -10,11 +10,9 @@ subtitle: Work-In-Progress Introductory Notebooks
 2. [Traversing IR](./2_traversing_ir.html)
 3. [Builders](./3_builders.html)
 4. [IR Generation](./4_ir_gen.html)
-5. [IR Generation (Solutions)](./4_ir_gen_solutions.html)
-6. [Rewrites](./5_rewrites.html)
-7. [Rewrite Exercises](./6_rewrite_exercises.html)
-8. [Defining Dialects](./7_defining_dialects.html)
-9. [Defining Dialects (Solutions)](./7_defining_dialects_solutions.html)
+5. [Rewrites](./5_rewrites.html)
+6. [Rewrite Exercises](./6_rewrite_exercises.html)
+7. [Defining Dialects](./7_defining_dialects.html)
 
 ## RISC-V Notebooks
 
