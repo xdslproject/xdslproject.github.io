@@ -35,13 +35,13 @@ By the end, attendees will understand how to develop efficient, maintainable DSL
 
 | **Time**       | **Event**                                                                 | **Speaker(s)**                                                                 |
 |----------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **09:00-09:05** | Welcome                                                                  | Sasha Lopoukhine, University of Cambridge                                     |
-| **09:05-09:25** | xDSL: Overview and Why to Adopt It                                       | Tobias Grosser, University of Cambridge and Chris Vasiladiotis, University of Edinburgh                                   |
-| **09:25-09:45** | Hardware-Informed Domain-Specific Transformations                        | Sasha Lopoukhine, University of Cambridge                                     |
-| **09:45-10:05** | TBD                                                                      | Nick Brown, EPCC at the University of Edinburgh                                |
-| **10:05-10:30** | Introduction to MLIR                                                     | Sasha Lopoukhine, University of Cambridge and Chris Vasiladiotis, University of Edinburgh |
+| **09:00-09:05** | Welcome                                                                  | Sasha Lopoukhine (University of Cambridge)                                     |
+| **09:05-09:25** | xDSL: Overview and Why to Adopt It                                       | Tobias Grosser (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
+| **09:25-09:45** | Hardware-Informed Domain-Specific Transformations                        | Sasha Lopoukhine (University of Cambridge)                                     |
+| **09:45-10:05** | HPC Programmer Productivity on Novel Architectures with xDSL             | Nick Brown (EPCC at the University of Edinburgh)                                |
+| **10:05-10:30** | Introduction to MLIR                                                     | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
 | **10:30-11:00** | *Coffee Break*                                                           |                                                                                |
-| **11:00-12:25** | [Hands-on Interactive Tutorial](https://xdsl.dev/workshop/)              | Sasha Lopoukhine, University of Cambridge and Chris Vasiladiotis, University of Edinburgh |
+| **11:00-12:25** | [Hands-on Interactive Tutorial](https://xdsl.dev/workshop/)              | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
 | **12:25-12:30** | Closing Remarks                                                          |                                                                                |
 
 
