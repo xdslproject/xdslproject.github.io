@@ -44,6 +44,14 @@ By the end, attendees will understand how to develop efficient, maintainable DSL
 | **11:00-12:25** | [Hands-on Interactive Tutorial](https://xdsl.dev/workshop/)              | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
 | **12:25-12:30** | Closing Remarks                                                          |                                                                                |
 
+## Publications
+
+1. [xDSL: Sidekick Compilation for SSA-Based Compilers](https://dl.acm.org/doi/10.1145/3696443.3708945), Fehr et al., CGO 2025
+2. [A Shared Compilation Stack for Distributed-Memory Parallelism in Stencil DSLs](https://dl.acm.org/doi/abs/10.1145/3620666.3651344), Bisbas et al., ASPLOS 2025
+3. [A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](https://dl.acm.org/doi/10.1145/3696443.3708952), Lopoukhine et al., CGO 2025
+4. [Seamless Acceleration of Fortran Intrinsics via AMD AI Engines](https://dl.acm.org/doi/10.1145/3706628.3708854), Brown et al., FPGA 2025
+5. [Fully Integrating the Flang Fortran Compiler with Standard MLIR](https://dl.acm.org/doi/10.1109/SCW63240.2024.00133), Brown, SC 2025
+
 
 ## Team
 
