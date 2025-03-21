@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ASPLOS 2025 Tutorial
-subtitle: Rotterdam, The Netherlands — March 30- April 3, 2025
+subtitle: Rotterdam, The Netherlands — March 30 - April 3, 2025
 ---
 
 # _xDSL: a Python-based Compiler Ecosystem_ 
@@ -26,18 +26,31 @@ its capabilities, and guide attendees in creating and optimizing domain-specific
 This tutorial introduces xDSL's core concepts and practical implementation techniques through hands-on examples. In more detail, we will provide participants with the necessary information on 1) how to define, extend and combine IR dialects, 2) leverage the existing optimization capabilities to define transformation passes that operate domain-specific and across dialects, 3) lower dialects and interface with existing MLIR/LLVM workflows.
 By the end, attendees will understand how to develop efficient, maintainable DSL compilers using xDSL's modular approach, and be equipped to integrate xDSL into their development workflows.
 
+## Links
+
+- [xDSL Website](https://xdsl.dev)
+- [xDSL GitHub Repository](https://github.com/xdslproject/xdsl)
+
 ## Program
 
 | **Time**       | **Event**                                                                 | **Speaker(s)**                                                                 |
 |----------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **09:00-09:05** | Welcome                                                                  | Sasha Lopoukhine, University of Cambridge                                     |
-| **09:05-09:25** | xDSL: Overview and Why to Adopt It                                       | Tobias Grosser, University of Cambridge and Chris Vasiladiotis, University of Edinburgh                                   |
-| **09:25-09:45** | Hardware-Informed Domain-Specific Transformations                        | Sasha Lopoukhine, University of Cambridge                                     |
-| **09:45-10:05** | TBD                                                                      | Nick Brown, EPCC at the University of Edinburgh                                |
-| **10:05-10:30** | Introduction to MLIR                                                     | Sasha Lopoukhine, University of Cambridge and Chris Vasiladiotis, University of Edinburgh |
+| **09:00-09:05** | Welcome                                                                  | Sasha Lopoukhine (University of Cambridge)                                     |
+| **09:05-09:25** | xDSL: Overview and Why to Adopt It                                       | Tobias Grosser (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
+| **09:25-09:45** | Hardware-Informed Domain-Specific Transformations                        | Sasha Lopoukhine (University of Cambridge)                                     |
+| **09:45-10:05** | HPC Programmer Productivity on Novel Architectures with xDSL             | Nick Brown (EPCC at the University of Edinburgh)                                |
+| **10:05-10:30** | Introduction to MLIR                                                     | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
 | **10:30-11:00** | *Coffee Break*                                                           |                                                                                |
-| **11:00-12:25** | [Hands-on Interactive Tutorial](https://xdsl.dev/workshop/)              | Sasha Lopoukhine, University of Cambridge and Chris Vasiladiotis, University of Edinburgh |
+| **11:00-12:25** | [Hands-on Interactive Tutorial](https://xdsl.dev/workshop/)              | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
 | **12:25-12:30** | Closing Remarks                                                          |                                                                                |
+
+## Publications
+
+1. [xDSL: Sidekick Compilation for SSA-Based Compilers](https://dl.acm.org/doi/10.1145/3696443.3708945), Fehr et al., CGO 2025
+2. [A Shared Compilation Stack for Distributed-Memory Parallelism in Stencil DSLs](https://dl.acm.org/doi/abs/10.1145/3620666.3651344), Bisbas et al., ASPLOS 2025
+3. [A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](https://dl.acm.org/doi/10.1145/3696443.3708952), Lopoukhine et al., CGO 2025
+4. [Seamless Acceleration of Fortran Intrinsics via AMD AI Engines](https://dl.acm.org/doi/10.1145/3706628.3708854), Brown et al., FPGA 2025
+5. [Fully Integrating the Flang Fortran Compiler with Standard MLIR](https://dl.acm.org/doi/10.1109/SCW63240.2024.00133), Brown, SC 2025
 
 
 ## Team
