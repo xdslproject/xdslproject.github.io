@@ -26,6 +26,11 @@ its capabilities, and guide attendees in creating and optimizing domain-specific
 This tutorial introduces xDSL's core concepts and practical implementation techniques through hands-on examples. In more detail, we will provide participants with the necessary information on 1) how to define, extend and combine IR dialects, 2) leverage the existing optimization capabilities to define transformation passes that operate domain-specific and across dialects, 3) lower dialects and interface with existing MLIR/LLVM workflows.
 By the end, attendees will understand how to develop efficient, maintainable DSL compilers using xDSL's modular approach, and be equipped to integrate xDSL into their development workflows.
 
+## Links
+
+- [xDSL Website](https://xdsl.dev)
+- [xDSL GitHub Repository](https://github.com/xdslproject/xdsl)
+
 ## Program
 
 | **Time**       | **Event**                                                                 | **Speaker(s)**                                                                 |
