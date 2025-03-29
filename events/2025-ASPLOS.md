@@ -4,13 +4,13 @@ title: ASPLOS 2025 Tutorial
 subtitle: Rotterdam, The Netherlands — March 30 - April 3, 2025
 ---
 
-# _xDSL: a Python-based Compiler Ecosystem_ 
+# _xDSL: a Python-based Compiler Ecosystem_
 
 We will be presenting **xDSL** as part of the ASPLOS 2025 [tutorial](https://www.asplos-conference.org/asplos2025/workshops-and-tutorials/) session.
 
 ## Details
 
-**Date and Time:** Sunday 30 March 2025, 9:00-12:30  
+**Date and Time:** Sunday 30 March 2025, 9:00-12:30
 **Location:** Leeuwen room II
 
 ## Abstract
@@ -19,9 +19,9 @@ xDSL is a Python-based framework that enhances MLIR by enabling flexible interac
 and the IRDL dialect, which defines other dialects. It supports native Python development, DSL integration, and
 low-level compiler extensions, simplifying compiler research and prototyping. By offering loosely coupled integration
 with MLIR, xDSL reduces the need for deep expertise in C++ and LLVM, making it accessible for diverse use cases while
-streamlining compiler workflows. 
+streamlining compiler workflows.
 
-In this tutorial, we will introduce xDSL and some of its so far applications in various application domains, demonstrate 
+In this tutorial, we will introduce xDSL and some of its so far applications in various application domains, demonstrate
 its capabilities, and guide attendees in creating and optimizing domain-specific languages using MLIR through hands-on exercises.
 This tutorial introduces xDSL's core concepts and practical implementation techniques through hands-on examples. In more detail, we will provide participants with the necessary information on 1) how to define, extend and combine IR dialects, 2) leverage the existing optimization capabilities to define transformation passes that operate domain-specific and across dialects, 3) lower dialects and interface with existing MLIR/LLVM workflows.
 By the end, attendees will understand how to develop efficient, maintainable DSL compilers using xDSL's modular approach, and be equipped to integrate xDSL into their development workflows.
@@ -40,8 +40,8 @@ By the end, attendees will understand how to develop efficient, maintainable DSL
 | **09:25-09:45** | Hardware-Informed Domain-Specific Transformations                        | Sasha Lopoukhine (University of Cambridge)                                     |
 | **09:45-10:05** | HPC Programmer Productivity on Novel Architectures with xDSL             | Nick Brown (EPCC at the University of Edinburgh)                                |
 | **10:05-10:30** | Introduction to MLIR                                                     | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
-| **10:30-11:00** | *Coffee Break*                                                           |                                                                                |
-| **11:00-12:25** | [Hands-on Interactive Tutorial](https://xdsl.dev/workshop/)              | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
+| **10:30-11:00** | _Coffee Break_                                                           |                                                                                |
+| **11:00-12:25** | [Hands-on Interactive Tutorial](https://xdsl.readthedocs.io/stable/marimo/)              | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
 | **12:25-12:30** | Closing Remarks                                                          |                                                                                |
 
 ## Publications
@@ -51,7 +51,6 @@ By the end, attendees will understand how to develop efficient, maintainable DSL
 3. [A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](https://dl.acm.org/doi/10.1145/3696443.3708952), Lopoukhine et al., CGO 2025
 4. [Seamless Acceleration of Fortran Intrinsics via AMD AI Engines](https://dl.acm.org/doi/10.1145/3706628.3708854), Brown et al., FPGA 2025
 5. [Fully Integrating the Flang Fortran Compiler with Standard MLIR](https://dl.acm.org/doi/10.1109/SCW63240.2024.00133), Brown, SC 2025
-
 
 ## Team
 
@@ -77,7 +76,7 @@ By the end, attendees will understand how to develop efficient, maintainable DSL
   <div class="speaker-text">
     <h3>Nick Brown</h3>
     <p>
-    Nick Brown is a Senior Research Fellow at EPCC, the University of Edinburgh, with a strong focus on High Performance 
+    Nick Brown is a Senior Research Fellow at EPCC, the University of Edinburgh, with a strong focus on High Performance
     Computing (HPC). Working at the UK’s leading supercomputing centre, much of his research centres around the role that
     novel hardware can play in future supercomputers. Given the energy efficiency of many emerging hardware technologies,
     his work is particularly relevant to advancing supercomputing workloads towards Net-Zero goals. Nick is deeply
