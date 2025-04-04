@@ -33,16 +33,16 @@ By the end, attendees will understand how to develop efficient, maintainable DSL
 
 ## Program
 
-| **Time**       | **Event**                                                                 | **Speaker(s)**                                                                 |
-|----------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **09:00-09:05** | Welcome                                                                  | Sasha Lopoukhine (University of Cambridge)                                     |
-| **09:05-09:25** | xDSL: Overview and Why to Adopt It                                       | Tobias Grosser (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
-| **09:25-09:45** | Hardware-Informed Domain-Specific Transformations                        | Sasha Lopoukhine (University of Cambridge)                                     |
-| **09:45-10:05** | HPC Programmer Productivity on Novel Architectures with xDSL             | Nick Brown (EPCC at the University of Edinburgh)                                |
-| **10:05-10:30** | Introduction to MLIR                                                     | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
-| **10:30-11:00** | _Coffee Break_                                                           |                                                                                |
-| **11:00-12:25** | [Hands-on Interactive Tutorial](https://xdsl.readthedocs.io/stable/marimo/)              | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
-| **12:25-12:30** | Closing Remarks                                                          |                                                                                |
+  | **Time**        | **Event**                                                                                                                       | **Speaker(s)**                                                                              |
+  |-----------------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+  | **09:00-09:05** | Welcome                                                                                                                         | Sasha Lopoukhine (University of Cambridge)                                                  |
+  | **09:05-09:25** | [xDSL: Overview and Why to Adopt It](/assets/pdfs/2025-03-30-ASPLOS-tutorial-overview.pdf)                                       | Tobias Grosser (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh)   |
+  | **09:25-09:45** | [Hardware-Informed Domain-Specific Transformations](/assets/pdfs/2025-03-30-ASPLOS-tutorial-autotuner.pdf)                       | Sasha Lopoukhine (University of Cambridge)                                                  |
+  | **09:45-10:05** | HPC Programmer Productivity on Novel Architectures with xDSL [talk](https://us02web.zoom.us/clips/share/HHClsGDTSSuEW-MLtWZ3Cg) | Nick Brown (EPCC at the University of Edinburgh)                                            |
+  | **10:05-10:30** | [Introduction to MLIR](https://xdsl.readthedocs.io/stable/marimo/mlir_ir/)                                                      | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
+  | **10:30-11:00** | _Coffee Break_                                                                                                                  |                                                                                             |
+  | **11:00-12:25** | [Hands-on Interactive Tutorial](https://xdsl.readthedocs.io/stable/marimo/)                                                     | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
+  | **12:25-12:30** | Closing Remarks                                                                                                                 |                                                                                             |
 
 ## Publications
 
