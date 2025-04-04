@@ -33,24 +33,24 @@ By the end, attendees will understand how to develop efficient, maintainable DSL
 
 ## Program
 
-| **Time**       | **Event**                                                                 | **Speaker(s)**                                                                 |
-|----------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------|
-| **09:00-09:05** | Welcome                                                                  | Sasha Lopoukhine (University of Cambridge)                                     |
-| **09:05-09:25** | xDSL: Overview and Why to Adopt It                                       | Tobias Grosser (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
-| **09:25-09:45** | Hardware-Informed Domain-Specific Transformations                        | Sasha Lopoukhine (University of Cambridge)                                     |
-| **09:45-10:05** | HPC Programmer Productivity on Novel Architectures with xDSL             | Nick Brown (EPCC at the University of Edinburgh)                                |
-| **10:05-10:30** | Introduction to MLIR                                                     | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
-| **10:30-11:00** | _Coffee Break_                                                           |                                                                                |
-| **11:00-12:25** | [Hands-on Interactive Tutorial](https://xdsl.readthedocs.io/stable/marimo/)              | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
-| **12:25-12:30** | Closing Remarks                                                          |                                                                                |
+  | **Time**        | **Event**                                                                                                                       | **Speaker(s)**                                                                              |
+  |-----------------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|
+  | **09:00-09:05** | Welcome                                                                                                                         | Sasha Lopoukhine (University of Cambridge)                                                  |
+  | **09:05-09:25** | [xDSL: Overview and Why to Adopt It](/assets/pdfs/2025-03-30-ASPLOS-tutorial-overview.pdf)                                       | Tobias Grosser (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh)   |
+  | **09:25-09:45** | [Hardware-Informed Domain-Specific Transformations](/assets/pdfs/2025-03-30-ASPLOS-tutorial-autotuner.pdf)                       | Sasha Lopoukhine (University of Cambridge)                                                  |
+  | **09:45-10:05** | HPC Programmer Productivity on Novel Architectures with xDSL [talk](https://us02web.zoom.us/clips/share/HHClsGDTSSuEW-MLtWZ3Cg) | Nick Brown (EPCC at the University of Edinburgh)                                            |
+  | **10:05-10:30** | [Introduction to MLIR](https://xdsl.readthedocs.io/stable/marimo/mlir_ir/)                                                      | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
+  | **10:30-11:00** | _Coffee Break_                                                                                                                  |                                                                                             |
+  | **11:00-12:25** | [Hands-on Interactive Tutorial](https://xdsl.readthedocs.io/stable/marimo/)                                                     | Sasha Lopoukhine (University of Cambridge) and Chris Vasiladiotis (University of Edinburgh) |
+  | **12:25-12:30** | Closing Remarks                                                                                                                 |                                                                                             |
 
 ## Publications
 
 1. [xDSL: Sidekick Compilation for SSA-Based Compilers](https://dl.acm.org/doi/10.1145/3696443.3708945), Fehr et al., CGO 2025
-2. [A Shared Compilation Stack for Distributed-Memory Parallelism in Stencil DSLs](https://dl.acm.org/doi/abs/10.1145/3620666.3651344), Bisbas et al., ASPLOS 2025
+2. [A Shared Compilation Stack for Distributed-Memory Parallelism in Stencil DSLs](https://dl.acm.org/doi/abs/10.1145/3620666.3651344), Bisbas et al., ASPLOS 2024
 3. [A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](https://dl.acm.org/doi/10.1145/3696443.3708952), Lopoukhine et al., CGO 2025
 4. [Seamless Acceleration of Fortran Intrinsics via AMD AI Engines](https://dl.acm.org/doi/10.1145/3706628.3708854), Brown et al., FPGA 2025
-5. [Fully Integrating the Flang Fortran Compiler with Standard MLIR](https://dl.acm.org/doi/10.1109/SCW63240.2024.00133), Brown, SC 2025
+5. [Fully Integrating the Flang Fortran Compiler with Standard MLIR](https://dl.acm.org/doi/10.1109/SCW63240.2024.00133), Brown, SC 2024
 
 ## Team
 
