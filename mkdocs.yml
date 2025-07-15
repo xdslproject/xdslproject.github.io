@@ -1,0 +1,39 @@
+site_name: xDSL
+site_url: https://xdsl.readthedocs.io/
+site_description: xDSL -- a Python-native compiler framework
+site_author: xDSL developers
+copyright: Copyright &copy xDSL developers
+repo_name:  xdslproject/xdsl
+repo_url: https://github.com/xdslproject/xdsl
+
+# strict: true
+
+theme:
+  name: "material"
+  locale: en
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+
+plugins:
+- search
+- blog:
+    blog_toc: true
+- rss:
+    match_path: blog/posts/.*
+    date_from_meta:
+      as_creation: date
+    categories:
+      - categories
+      - tags
+
+nav:
+  - xDSL: index.md
+  - Blog: blog/index.md
+  - Documentation: "https://xdsl.readthedocs.io/stable/"
