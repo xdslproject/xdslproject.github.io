@@ -1,1 +1,1 @@
-# xDSL's landing page and blog websit
+# xDSL's landing page and blog website
