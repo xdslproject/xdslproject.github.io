@@ -43,11 +43,11 @@ nav:
   - Home: index.md
   - News: news/index.md
   - Workshop: "https://xdsl.readthedocs.io/stable/marimo"
-  - Community:
-    - ASPLOS: events/ASPLOS.md
-    - Euro-Par Workshop: events/europar.md
-    - HiPEAC: events/HiPEAC.md
-    - MLIR Winter School: events/winter-school.md
+  - Events:
+    - HiPEAC: events/2025-HiPEAC.md
+    - MLIR Winter School: events/2025-winter-school.md
+    - ASPLOS: events/2025-ASPLOS.md
+    - Euro-Par Workshop: events/2022-europar.md
   - Developers:
     - Application: developers/appdev.md
     - DSL: developers/dsldev.md
