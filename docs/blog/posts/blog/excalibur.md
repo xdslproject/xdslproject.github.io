@@ -1,8 +1,6 @@
 ---
 date: 2022-07-12
 title: xDSL at the ExCALIBUR workshop
-categories:
-  - blog
 tags:
   - project
   - technical
@@ -15,7 +13,7 @@ research. There were some very interesting projects presented, and clearly the
 programme is doing a fantastic job pushing UK science towards exascale and
 beyond.
 
-<!-- <img src="/assets/img/excalibur_workshop.jpg" align="left"> -->
+<img src="/assets/img/excalibur_workshop.jpg" align="left">
 
 As part of this workshop xDSL PI, Tobias Grosser, gave an update about the xDSL
 project itself and, considering that xDSL has been running for almost a year,

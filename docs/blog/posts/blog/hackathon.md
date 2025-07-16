@@ -1,8 +1,6 @@
 ---
 date: 2023-01-16
 title: New year, new hackathon
-categories:
-  - blog
 tags:
   - hackathon
   - technical
@@ -14,7 +12,7 @@ Imperial, and online attendees from as far away as Mumbai in India, it was a
 great opportunity to prioritise the list of tasks we wanted to get sorted and
 make that happen.
 
-<!-- <img src="/assets/img/jan_hackathon.jpg" align=right width=200> -->
+<img src="/assets/img/jan_hackathon.jpg" align=right width=200>
 
 One of the exciting aspects about these hackathon (apart from all the tasty
 treats throughout the day!) is how, from day to day or even hour to hour,

@@ -1,8 +1,6 @@
 ---
 date: 2021-12-13
 title: Position available on xDSL project
-categories:
-  - blog
 tags:
   - project
 ---
@@ -14,7 +12,7 @@ common, unified, technology built on MLIR and LLVM.
 
 ## Details of the opportunity
 
-<!-- <img src="/assets/img/uoe_informatics.jpg" width="200" align=right> -->
+<img src="/assets/img/uoe_informatics.jpg" width="200" align=right>
 
 We are advertising for a Postdoctoral Research Associate in the Compiler and
 Runtime Systems Group at the School of Informatics, University of Edinburgh, to

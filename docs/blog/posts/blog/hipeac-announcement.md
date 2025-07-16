@@ -1,8 +1,6 @@
 ---
 date: 2025-01-13
 title: xDSL at HiPEAC 2025
-categories:
-  - blog
 tags:
   - conference
   - technical

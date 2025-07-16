@@ -1,8 +1,6 @@
 ---
 date: 2021-08-10
 title: Project kicks off
-categories:
-  - blog
 tags:
   - project
 ---

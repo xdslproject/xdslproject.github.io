@@ -1,8 +1,6 @@
 ---
 date: 2021-09-14
 title: DSL keynote at IWOMP
-categories:
-  - blog
 tags:
   - keynote
 ---

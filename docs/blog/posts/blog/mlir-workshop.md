@@ -1,8 +1,6 @@
 ---
 date: 2023-05-09
 title: MLIR hackathon and workshop
-categories:
-  - blog
 tags:
   - hackathon
   - workshop
@@ -18,7 +16,7 @@ where a major focus was how to leverge xDSL and MLIR to enable efficient
 programming of the PULP snitch architecture, culminating in a new snitch and
 RISC-V dialect being added to xDSL.
 
-<!-- <img src="/assets/img/mlir-workshop-edinburgh.jpg" align=right width=200> -->
+<img src="/assets/img/mlir-workshop-edinburgh.jpg" align=right width=200>
 
 We also spent time working on the core HPC dialects of xDSL, with enhancements
 made especially around the halo and MPI dialects in order to ensure that these

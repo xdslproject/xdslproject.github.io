@@ -1,8 +1,6 @@
 ---
 date: 2022-06-12
 title: IRDL paper presented at PLDI conference
-categories:
-  - blog
 tags:
   - publication
   - technical
@@ -15,7 +13,7 @@ consuming process that required substantial expertise. By contrast IRDL is
 presented as a set of Python decorators and classes, readily enabling compiler
 developers to define a dialect and transformations upon this.
 
-<!-- <img src="https://grosser.science/static/2c333a6fc8c8e4a7fcac0b438b1a5da9/6218f/fehr-2022-irdl.webp" align="right"> -->
+<img src="https://grosser.science/static/2c333a6fc8c8e4a7fcac0b438b1a5da9/6218f/fehr-2022-irdl.webp" align="right">
 
 Of-course the definition of a DSL for IR construction is not enough, one also
 needs to demonstrate that this is capable of expressing the wide variety of

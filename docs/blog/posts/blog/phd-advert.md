@@ -1,8 +1,6 @@
 ---
 date: 2021-11-20
 title: PhD opportunity
-categories:
-  - blog
 tags:
   - PhD
 ---
@@ -38,7 +36,7 @@ programmer to specify manually. In-fact the word language is a bit of a misnomer
 here, instead the key is abstractions as many of these technologies are embedded
 within existing languages such as Python.
 
-<!-- <img src="/assets/img/2021_phdadvert.jpg" style="display: block; margin-left: auto; margin-right: auto; width:80%"> -->
+<img src="/assets/img/2021_phdadvert.jpg" style="display: block; margin-left: auto; margin-right: auto; width:80%">
 
 DSLs have demonstrated their potential to play an important role in programming
 future exascale simulation codes, however there is a big problem! The issue is

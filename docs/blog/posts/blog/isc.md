@@ -1,8 +1,6 @@
 ---
 date: 2023-05-21
 title: xDSL at ISC 2023
-categories:
-  - blog
 tags:
   - conference
   - technical

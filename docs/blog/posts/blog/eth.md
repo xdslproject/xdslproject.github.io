@@ -1,8 +1,6 @@
 ---
 date: 2023-02-25
 title: ETH Zurich presentation
-categories:
-  - blog
 tags:
   - technical
 ---

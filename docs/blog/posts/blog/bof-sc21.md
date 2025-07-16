@@ -1,8 +1,6 @@
 ---
 date: 2021-11-10
 title: BoF at SC21
-categories:
-  - blog
 tags:
   - BoF
 ---
@@ -12,7 +10,7 @@ running in a hybrid mode with both physical and virtual attendance. Therefore it
 is a fantastic opportunity to hold a session around the consolidation of DSL
 ecosystems.
 
-<!-- <img src="/assets/img/xdsl_bof_sc21.jpeg" width="220" align="left" padding="5px;"> -->
+<img src="/assets/img/xdsl_bof_sc21.jpeg" width="220" align="left" padding="5px;">
 
 Domain Specific Languages (DSLs) are a powerful way of providing programmer
 productivity and performance when developing HPC codes. The enriched information

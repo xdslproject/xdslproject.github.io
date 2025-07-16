@@ -1,8 +1,6 @@
 ---
 date: 2025-01-27
 title: MLIR Winter School
-categories:
-  - events
 ---
 
 From January 28 to 31, as part of the DeepGreen project, we are participating in

@@ -1,8 +1,6 @@
 ---
 date: 2022-06-24
 title: DSL PASC mini-symposium
-categories:
-  - blog
 tags:
   - publication
   - technical
@@ -15,7 +13,7 @@ located this year in Basel, it will be the first time since 2019 that the
 conference has been in-person albeit with an additional online component too for
 those who can not travel.
 
-<!-- <img src="/assets/img/pasc_22.jpg" align="left"> -->
+<img src="/assets/img/pasc_22.jpg" align="left">
 
 PASC should be especially interesting this year due to the recent news that the
 Frontier US machine has broken the exaflop barrier, moving us truely into the

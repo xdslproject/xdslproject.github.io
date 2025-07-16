@@ -1,8 +1,6 @@
 ---
 date: 2025-01-20
 title: HiPeac 2025 Workshop
-categories:
-  - events
 ---
 
 We will be presenting [a

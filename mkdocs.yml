@@ -10,6 +10,13 @@ repo_url: https://github.com/xdslproject/xdsl
 
 theme:
   name: "material"
+  # custom_dir: overrides
+  logo: assets/img/logos/xdsl-transparent-single.png
+  favicon: assets/img/logos/xdsl-transparent-single.png
+  # logo: assets/img/logos/Logo.png
+  # favicon: assets/img/logos/Logo.png
+  extra_css:
+  - stylesheets/extra.css
   locale: en
   features:
     - content.code.annotate
@@ -20,6 +27,18 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.indexes
+  # palette:
+  #   - media: "(prefers-color-scheme: light)"
+  #     scheme: default
+  #     toggle:
+  #       icon: material/weather-sunny
+  #       name: Switch to dark mode
+  #   - media: "(prefers-color-scheme: dark)"
+  #     scheme: slate
+  #     primary: black
+  #     toggle:
+  #       icon: material/weather-night
+  #       name: Switch to light mode
 
 plugins:
 - search
@@ -33,7 +52,35 @@ plugins:
       - categories
       - tags
 
+    feeds_filenames:
+      rss_created: feed.xml
+      rss_updated: feed-updated.xml
 nav:
-  - xDSL: index.md
-  - Blog: blog/index.md
+  - Home: index.md
+  - News: blog/index.md
+  - Workshop: "https://xdsl.readthedocs.io/stable/marimo"
+  - Community:
+    - ASPLOS: events/ASPLOS.md
+    - Euro-Par Workshop: events/europar.md
+    - HiPEAC: events/HiPEAC.md
+    - MLIR Winter School: events/winter-school.md
+  - Developers:
+    - Application: developers/appdev.md
+    - DSL: developers/dsldev.md
+  - About:
+    - Challenge: about/challenge.md
+    - Partners: about/partners.md
+    - Excalibur: about/excalibur.md
   - Documentation: "https://xdsl.readthedocs.io/stable/"
+
+extra:
+  social:
+    - icon: material/rss
+      link: /feed.xml
+      name: Subscribe to our RSS Feed
+    - icon: material/chat
+      link: https://xdsl.zulipchat.com/
+      name: Chat on Zulip
+    - icon: material/github
+      link: https://github.com/xdslproject
+      name: Contribute on Github
