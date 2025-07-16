@@ -1,7 +1,7 @@
 [project]
 name = "xdslproject-github-io"
 version = "1.0.0"
-description = "xDSL's landing page and blog websit"
+description = "xDSL's landing page and blog website"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
