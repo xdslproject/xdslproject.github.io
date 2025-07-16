@@ -12,8 +12,6 @@ theme:
   name: "material"
   logo: assets/img/logos/xdsl-transparent-single.png
   favicon: assets/img/logos/xdsl-transparent-single.png
-  extra_css:
-  - stylesheets/extra.css
   locale: en
   features:
     - content.code.annotate
