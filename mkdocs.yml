@@ -6,15 +6,12 @@ copyright: Copyright &copy xDSL developers
 repo_name:  xdslproject/xdsl
 repo_url: https://github.com/xdslproject/xdsl
 
-# strict: true
+strict: true
 
 theme:
   name: "material"
-  # custom_dir: overrides
   logo: assets/img/logos/xdsl-transparent-single.png
   favicon: assets/img/logos/xdsl-transparent-single.png
-  # logo: assets/img/logos/Logo.png
-  # favicon: assets/img/logos/Logo.png
   extra_css:
   - stylesheets/extra.css
   locale: en
@@ -27,18 +24,6 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.indexes
-  # palette:
-  #   - media: "(prefers-color-scheme: light)"
-  #     scheme: default
-  #     toggle:
-  #       icon: material/weather-sunny
-  #       name: Switch to dark mode
-  #   - media: "(prefers-color-scheme: dark)"
-  #     scheme: slate
-  #     primary: black
-  #     toggle:
-  #       icon: material/weather-night
-  #       name: Switch to light mode
 
 plugins:
 - search
