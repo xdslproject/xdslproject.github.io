@@ -28,6 +28,7 @@ theme:
 plugins:
 - search
 - blog:
+    blog_dir: news
     blog_toc: true
 - rss:
     match_path: blog/posts/.*
@@ -42,7 +43,7 @@ plugins:
       rss_updated: feed-updated.xml
 nav:
   - Home: index.md
-  - News: blog/index.md
+  - News: news/index.md
   - Workshop: "https://xdsl.readthedocs.io/stable/marimo"
   - Community:
     - ASPLOS: events/ASPLOS.md
