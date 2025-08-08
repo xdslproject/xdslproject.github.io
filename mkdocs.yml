@@ -57,7 +57,7 @@ plugins:
       rss_created: feed.xml
       rss_updated: feed-updated.xml
 nav:
-  - Home: index.html
+  - Home: index.md
   - News: news/index.md
   - Workshop: "https://xdsl.readthedocs.io/stable/marimo"
   - Events:
