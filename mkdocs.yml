@@ -38,6 +38,22 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
 
+markdown_extensions:
+  - attr_list
+  - admonition
+  - footnotes
+  - md_in_html
+  - meta
+  - sane_lists
+  - smarty
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.saneheaders
+  - pymdownx.superfences
+  - pymdownx.tilde
+
 extra_css:
   - stylesheets/extra.css
 
