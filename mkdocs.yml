@@ -43,6 +43,7 @@ extra_css:
 
 plugins:
 - search
+- awesome-nav
 - blog:
     blog_dir: news
     blog_toc: true
@@ -56,23 +57,6 @@ plugins:
     feeds_filenames:
       rss_created: feed.xml
       rss_updated: feed-updated.xml
-nav:
-  - Home: index.md
-  - News: news/index.md
-  - Workshop: "https://xdsl.readthedocs.io/stable/marimo"
-  - Events:
-    - HiPEAC: events/2025-HiPEAC.md
-    - MLIR Winter School: events/2025-winter-school.md
-    - ASPLOS: events/2025-ASPLOS.md
-    - Euro-Par Workshop: events/2022-europar.md
-  - Developers:
-    - Application: developers/appdev.md
-    - DSL: developers/dsldev.md
-  - About:
-    - Challenge: about/challenge.md
-    - Partners: about/partners.md
-    - Excalibur: about/excalibur.md
-  - Documentation: "https://xdsl.readthedocs.io/stable/"
 
 extra:
   social:
