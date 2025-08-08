@@ -1,0 +1,88 @@
+site_name: xDSL
+site_url: https://xdsl.readthedocs.io/
+site_description: xDSL -- a Python-native compiler framework
+site_author: xDSL developers
+copyright: Copyright &copy xDSL developers
+repo_name:  xdslproject/xdsl
+repo_url: https://github.com/xdslproject/xdsl
+
+strict: true
+
+theme:
+  name: "material"
+  logo: assets/img/logos/xdsl-transparent-single.png
+  favicon: assets/img/logos/xdsl-transparent-single.png
+  locale: en
+  features:
+    - content.code.annotate
+    - content.code.copy
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: xdsl
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+- search
+- blog:
+    blog_dir: news
+    blog_toc: true
+- rss:
+    match_path: blog/posts/.*
+    date_from_meta:
+      as_creation: date
+    categories:
+      - categories
+      - tags
+
+    feeds_filenames:
+      rss_created: feed.xml
+      rss_updated: feed-updated.xml
+nav:
+  - Home: index.md
+  - News: news/index.md
+  - Workshop: "https://xdsl.readthedocs.io/stable/marimo"
+  - Events:
+    - HiPEAC: events/2025-HiPEAC.md
+    - MLIR Winter School: events/2025-winter-school.md
+    - ASPLOS: events/2025-ASPLOS.md
+    - Euro-Par Workshop: events/2022-europar.md
+  - Developers:
+    - Application: developers/appdev.md
+    - DSL: developers/dsldev.md
+  - About:
+    - Challenge: about/challenge.md
+    - Partners: about/partners.md
+    - Excalibur: about/excalibur.md
+  - Documentation: "https://xdsl.readthedocs.io/stable/"
+
+extra:
+  social:
+    - icon: material/rss
+      link: /feed.xml
+      name: Subscribe to our RSS Feed
+    - icon: material/chat
+      link: https://xdsl.zulipchat.com/
+      name: Chat on Zulip
+    - icon: material/github
+      link: https://github.com/xdslproject
+      name: Contribute on Github
