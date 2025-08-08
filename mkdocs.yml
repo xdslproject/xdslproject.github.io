@@ -48,13 +48,12 @@ plugins:
     blog_dir: news
     blog_toc: true
 - rss:
-    match_path: blog/posts/.*
+    match_path: (events|news/posts)/.*
     date_from_meta:
       as_creation: date
     categories:
       - categories
       - tags
-
     feeds_filenames:
       rss_created: feed.xml
       rss_updated: feed-updated.xml
