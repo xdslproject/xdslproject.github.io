@@ -12,18 +12,18 @@ ecosystem while benefiting from Python's productivity.
 
 <div class="grid cards" markdown>
 
--   :material-clock-fast:{ .lg .middle } :material-language-python:{. lg .middle } __Rapid development__
+-   :material-clock-fast:{ .lg .middle } :material-language-python:{. lg .middle } __Rapid development in Pure Python__
 
     ---
 
     Uses your existing Python skills to build compilers, fast.
 
 
--   :material-raspberry-pi:{ .lg .middle } __Low requirements__
+-   :material-download:{ .lg .middle } __Easy installation__
 
     ---
 
-    Run xDSL on a single board computer if you want to.
+    Just `pip install xdsl`.
 
 
 
@@ -42,41 +42,29 @@ ecosystem while benefiting from Python's productivity.
     Uses the same textual format as MLIR for intermediate representation.
 
 
--   :fontawesome-solid-terminal:{ .lg .middle } __ __
+-   :fontawesome-solid-battery-full:{ .lg .middle } __Batteries included__
 
     ---
 
-    .
+    Leverage existing compiler and interpreter components.
 
 
 
--   :material-scale-balance:{ .lg .middle } __Open Source__
+-   :material-scale-balance:{ .lg .middle } __Open source__
 
     ---
 
-    Textual is licensed under Apache License v2.0 with LLVM Exceptions.
+    xDSL is licensed under Apache License v2.0 with LLVM Exceptions.
 
 
 </div>
 
 
+<!-- ## Built with xDSL
 
-
-## Easily declare IR and transformations
-
-```python
-def foo() -> None:
-    return None
-
-foo()
-```
-
-## Built with xDSL
-
-- [xdsl-smt](https://github.com/opencompl/xdsl-smt) -- The implementation of an SMTLib dialect for xDSL
-- [inconspiquous](https://github.com/xdslproject/inconspiquous) -- A testing ground for quantum computing compilation ideas in xdsl
-- [xdsl-asl](https://github.com/xdslproject/xdsl-asl) -- Integrating asl in the xDSL/MLIR ecosystem
-- Your revolutionary new compiler project...
+- [xdsl-smt](https://github.com/opencompl/xdsl-smt) -- The implementation of an [SMTLib](https://smt-lib.org/) dialect for xDSL.
+- [inconspiquous](https://github.com/xdslproject/inconspiquous) -- A testing ground for quantum computing compilation ideas in xdsl.
+- [xdsl-asl](https://github.com/xdslproject/xdsl-asl) -- Integrating [ASL](https://developer.arm.com/Architectures/Architecture%20Specification%20Language) in the xDSL/MLIR ecosystem. -->
 
 
 ## Get in touch
