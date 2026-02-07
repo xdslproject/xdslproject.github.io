@@ -1,9 +1,9 @@
 nav:
   - index.md
-  - Getting Started: "https://xdsl.readthedocs.io/stable/"
-  - Tutorial Notebooks: "https://xdsl.readthedocs.io/stable/marimo/"
-  - API Reference: "https://xdsl.readthedocs.io/stable/reference/"
-  - User Guide: "https://xdsl.readthedocs.io/stable/guides/mlir_interoperation/"
+  - Getting Started: "https://docs.xdsl.dev/"
+  - Tutorial Notebooks: "https://docs.xdsl.dev/marimo/"
+  - API Reference: "https://docs.xdsl.dev/reference/"
+  - User Guide: "https://docs.xdsl.dev/guides/mlir_interoperation/"
   - news/index.md
   - events
   - about
