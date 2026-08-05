@@ -1,7 +1,7 @@
 nav:
   - index.md
   - Getting Started: "https://docs.xdsl.dev/"
-  - Tutorial Notebooks: "https://docs.xdsl.dev/marimo/"
+  - Tutorial Notebooks: "https://docs.xdsl.dev/notebooks/"
   - API Reference: "https://docs.xdsl.dev/reference/"
   - User Guide: "https://docs.xdsl.dev/guides/mlir_interoperation/"
   - news/index.md
