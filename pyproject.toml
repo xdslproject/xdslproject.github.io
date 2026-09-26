@@ -5,9 +5,6 @@ description = "xDSL's landing page and blog website"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "mkdocs-material>=9.5.49",
-    "mkdocs>=1.6.1",
+    "zensical>=0.0.65",
     "pymdown-extensions>=10.7",
-    "mkdocs-rss-plugin>=1.17.3",
-    "mkdocs-awesome-nav>=3.1.2",
 ]

@@ -9,8 +9,8 @@ install: .venv/
 
 .PHONY: docs-serve
 docs-serve: .venv/
-	uv run mkdocs serve
+	uv run zensical serve
 
 .PHONY: docs-build
 docs-build: .venv/
-	uv run mkdocs build
+	uv run zensical build
