@@ -62,10 +62,34 @@ plugins:
 - search
 - awesome-nav
 - blog:
-    blog_dir: news
+    blog_dir: blog
     blog_toc: true
+- redirects:
+    # GitHub Pages serves HTML redirects, not HTTP 301/308 responses.
+    # Keep the previously published URLs, including archives and pagination.
+    redirect_maps:
+      news/index.md: blog/index.md
+      news/2021/08/10/project-kicks-off.md: blog/posts/blog/2021-08-10-kickoff-meeting.md
+      news/2021/09/14/dsl-keynote-at-iwomp.md: blog/posts/blog/2021-09-14-iwomp-keynote.md
+      news/2021/11/10/bof-at-sc21.md: blog/posts/blog/2021-11-10-bof-sc21.md
+      news/2021/11/20/phd-opportunity.md: blog/posts/blog/2021-11-20-phd-advert.md
+      news/2021/12/13/position-available-on-xdsl-project.md: blog/posts/blog/2021-12-13-hiring-postdoc.md
+      news/2022/06/12/irdl-paper-presented-at-pldi-conference.md: blog/posts/blog/2022-06-12-irdl-pldi.md
+      news/2022/06/24/dsl-pasc-mini-symposium.md: blog/posts/blog/2022-06-24-pasc.md
+      news/2022/07/12/xdsl-at-the-excalibur-workshop.md: blog/posts/blog/2022-07-12-excalibur.md
+      news/2023/01/16/new-year-new-hackathon.md: blog/posts/blog/2023-01-16-hackathon.md
+      news/2023/02/25/eth-zurich-presentation.md: blog/posts/blog/2023-02-25-eth.md
+      news/2023/05/09/mlir-hackathon-and-workshop.md: blog/posts/blog/2023-05-09-mlir-workshop.md
+      news/2023/05/18/xdsl-at-durham-hpc-days.md: blog/posts/blog/2023-05-18-durham-excalibur.md
+      news/2023/05/21/xdsl-at-isc-2023.md: blog/posts/blog/2023-05-21-isc.md
+      news/2025/01/13/xdsl-at-hipeac-2025.md: blog/posts/blog/2025-01-13-hipeac-announcement.md
+      news/archive/2021.md: blog/archive/2021.md
+      news/archive/2022.md: blog/archive/2022.md
+      news/archive/2023.md: blog/archive/2023.md
+      news/archive/2025.md: blog/archive/2025.md
+      news/page/2.md: blog/page/2/index.md
 - rss:
-    match_path: (events|news/posts)/.*
+    match_path: (events|blog/posts)/.*
     date_from_meta:
       as_creation: date
     categories:
