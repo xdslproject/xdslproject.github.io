@@ -3,4 +3,4 @@ hide:
   - navigation
 ---
 
-# News
+# Blog

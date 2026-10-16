@@ -10,6 +10,8 @@ custom IR abstractions. Always optimize at the optimal abstraction level by
 lowering programs through multiple levels of IRs. Connect with the LLVM/MLIR
 ecosystem while benefiting from Python's productivity.
 
+[Explore the documentation](https://docs.xdsl.dev/){ .md-button .md-button--primary }
+
 <div class="grid cards" markdown>
 
 -   :material-clock-fast:{ .lg .middle } :material-language-python:{. lg .middle } __Rapid development in Pure Python__

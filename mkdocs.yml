@@ -77,6 +77,9 @@ plugins:
 
 extra:
   social:
+    - icon: material/book-open-variant
+      link: https://docs.xdsl.dev/
+      name: xDSL documentation
     - icon: material/rss
       link: /feed.xml
       name: Subscribe to our RSS Feed
