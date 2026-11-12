@@ -1,6 +1,9 @@
 ---
 date: 2026-10-21
 title: Exporting LLVM IR from xDSL
+authors:
+  - sueszli
+  - superlopuh
 tags:
   - technical
 ---
