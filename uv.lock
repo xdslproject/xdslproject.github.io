@@ -96,6 +96,18 @@ wheels = [
 ]
 
 [[package]]
+name = "mlir-pygments"
+version = "1.0.0"
+source = { registry = "https://pypi.org/simple" }
+dependencies = [
+    { name = "pygments" },
+]
+sdist = { url = "https://files.pythonhosted.org/packages/92/75/19719ce387b081efaf47437dfb3cb8cb4b55886e2e49d06622ea6a11e373/mlir_pygments-1.0.0.tar.gz", hash = "sha256:bd518ddcdb1437a42a9beba68bd1b6a6cee48dffdc873e25185904c43ba5eedb", size = 4028, upload-time = "2025-09-20T11:45:22.101Z" }
+wheels = [
+    { url = "https://files.pythonhosted.org/packages/94/f2/01c3bb853a8d4d7eb2236bc7ba39e56fba51f6513ad10079bc96c8425fb2/mlir_pygments-1.0.0-py3-none-any.whl", hash = "sha256:c326fcbd08950a33b4abc49386d5cffc3127985371eb012e948b406c7ce0f9a0", size = 5431, upload-time = "2025-09-20T11:45:20.558Z" },
+]
+
+[[package]]
 name = "pathspec"
 version = "1.1.1"
 source = { registry = "https://pypi.org/simple" }
@@ -202,12 +214,14 @@ name = "xdslproject-github-io"
 version = "1.0.0"
 source = { virtual = "." }
 dependencies = [
+    { name = "mlir-pygments" },
     { name = "pymdown-extensions" },
     { name = "zensical" },
 ]
 
 [package.metadata]
 requires-dist = [
+    { name = "mlir-pygments", specifier = "==1.0.0" },
     { name = "pymdown-extensions", specifier = ">=10.7" },
     { name = "zensical", specifier = ">=0.0.65" },
 ]
